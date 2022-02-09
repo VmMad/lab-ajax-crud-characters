@@ -14,6 +14,8 @@ h1, h2 {
   color: #d8b362;
 }
 
+
+
 button {
   font-family: inherit;
   font-size: 11px;
@@ -105,3 +107,12 @@ button {
 .submit-button {
   margin: 10px 0 0 120px;
 }
+
+
+.btnred{
+background-color: red;
+} 
+
+.btngreen{
+background-color: green;
+} 
